@@ -17,6 +17,8 @@ The output is the sequences in the database ordered by similarity to the query s
 
 ![](Images/Alligned_sequences.png)
 
+For convenience display the results are divided in pages, each one showing 10 at a time. The pages can be navegated with the _Next_ and _Previous_ buttons.
+
 The collumns shown mean the following:
 - **qseqid:** Query sequence.
 - **seqid:** Id of the sequence that alligned with the query.
