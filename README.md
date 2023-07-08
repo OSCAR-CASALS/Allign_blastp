@@ -13,4 +13,4 @@ Execute main.py and introduce the corresponding fasta files, then click continue
 
 
 
-The output is the sequences in the database ordered by similarity to our own. 
+The output is the sequences in the database ordered by similarity to the query sequence. 
