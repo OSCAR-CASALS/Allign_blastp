@@ -11,6 +11,6 @@ conda install -c bioconda blast
 ## Usage
 Execute main.py and introduce the corresponding fasta files, then click continue.
 
-![](Images/Main_display.png)
+![](Images/Menu.png)
 
 The output is the sequences in the database ordered by similarity to the query sequence. 
