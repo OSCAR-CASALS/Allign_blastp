@@ -13,4 +13,6 @@ Execute main.py and introduce the corresponding fasta files, then click continue
 
 ![](Images/Menu.png)
 
-The output is the sequences in the database ordered by similarity to the query sequence. 
+The output is the sequences in the database ordered by similarity to the query sequence.
+
+![](Images/Alligned_sequences.png)
