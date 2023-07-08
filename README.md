@@ -28,3 +28,9 @@ The collumns shown mean the following:
 - **ssend:** End of the allinged region in the sequnce from the databse.
 - **E-value:** E-value of the allignment.
 - **Perc.Id.:** Percentage of identity between the sequences.
+
+  ## References
+“TkInter - Python Wiki.” Accessed July 8, 2023. https://wiki.python.org/moin/TkInter.
+
+Camacho, Christiam, George Coulouris, Vahram Avagyan, Ning Ma, Jason Papadopoulos, Kevin Bealer, and Thomas L. Madden. “BLAST+: Architecture and Applications.” BMC Bioinformatics 10 (December 15, 2009): 421. https://doi.org/10.1186/1471-2105-10-421.
+
